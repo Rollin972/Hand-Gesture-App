@@ -1,0 +1,25 @@
+body
+{
+    background: linear-gradient(#8929AD,#436AAC,#43B7B8);
+    font-family: 'Itim', cursive;
+}
+.heading
+{
+    font-size: 20px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+#camera,#pic
+{
+    width : 350px;
+    height: 300px;
+    border: 5px darkcyan solid;
+}
+.gesture_name
+{
+    font-size: 20px;
+}
+label
+{
+    font-size: 20px;
+}
